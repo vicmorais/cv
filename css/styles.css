@@ -1,7 +1,43 @@
-img {
-  width: 100%;
+/******************************** TAG CSS**********************************************/
+body {
+  background-color: #ecf4f3;
+  text-align: center;
+  margin: auto;
 }
 
-body {
-  text-align: center;
+h1 {
+  color: #68b0ab;
+  font-size: 5rem;
+  margin-top: auto;
+  margin-bottom: 0;
+  font-family: 'Syne Mono', monospace;
+}
+
+h3 {
+  color: #006a71;
+}
+
+h2 {
+  color: #ff7e67;
+  font-size: 2rem;
+  margin-left: 19%;
+  margin-top: 0;
+  font-family: 'Indie Flower', cursive;
+}
+
+/******************************** Class CSS**********************************************/
+.entry-div {
+  background-color: #006a71;
+  min-height: 100%;
+}
+.top-anatomy {
+  width: 25%;
+  height: 25%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.victor-circle {
+  width: 25%;
+  height: 25%;
+  margin-top: 5%;
 }
