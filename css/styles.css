@@ -1,43 +1,52 @@
 /******************************** TAG CSS**********************************************/
 body {
-  background-color: #ecf4f3;
+  background-color: #c4edde;
   text-align: center;
   margin: auto;
 }
 
 h1 {
-  color: #68b0ab;
-  font-size: 5rem;
-  margin-top: auto;
-  margin-bottom: 0;
-  font-family: 'Syne Mono', monospace;
+  color: #f73859;
+  font-size: 6rem;
+  margin: auto auto 0 7%;
+  font-family: 'El Messiri', sans-serif;
 }
 
 h3 {
-  color: #006a71;
+  color: #384259;
 }
 
 h2 {
-  color: #ff7e67;
+  color: #252a34;
   font-size: 2rem;
   margin-left: 19%;
   margin-top: 0;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Marmelad', sans-serif;
 }
 
 /******************************** Class CSS**********************************************/
 .entry-div {
-  background-color: #006a71;
+  background-color: #7ac7c4;
   min-height: 100%;
+  padding-bottom: 5%;
+  padding-top: 25%;
 }
+
 .top-anatomy {
-  width: 25%;
-  height: 25%;
-  margin-top: 5%;
+  width: 15%;
+  height: 15%;
+  margin-top: 10%;
   margin-bottom: 5%;
 }
+
 .victor-circle {
-  width: 25%;
-  height: 25%;
-  margin-top: 5%;
+  width: 15%;
+  height: 15%;
+  margin-top: 2%;
+}
+
+.about-div {
+  margin: auto;
+  text-align: left;
+  width: 50%;
 }
